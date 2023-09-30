@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Renan Souza</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsouza27" alt="rsouza27" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/renan-souza-ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renan-souza-ads" height="30" width="40" /></a>
